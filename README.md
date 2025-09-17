@@ -49,7 +49,8 @@ Just a dev on a mission to supercharge my workflow, build blazing-fast projects,
 
 ### 🏆 GitHub Trophies
 
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizurex&show_icons=true&theme=radical)
+
 
 ---
 
