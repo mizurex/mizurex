@@ -2,9 +2,11 @@
 ---
 ### <u>About Me</u>
 Dev, if you can call me that.  
-I build stuff.  
+I build , break , learn and sob.  
 I work with TypeScript, Next.js, Tailwind CSS, and databases.  
 More about me — https://turfworks.site
+Open source contributions - https://turfworks.site/notion
+Cool stuff - https://turfworks.site/components
 
 ---
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
