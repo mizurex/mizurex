@@ -3,7 +3,7 @@
 ### <u>About Me</u>
 Dev, if you can call me that.  
 I build , break , learn and sob.  
-I work with TypeScript, Next.js, Tailwind CSS, and databases.  
+Playing with TypeScript, Next.js, Tailwind, Node.js, and databases.
 More about me — https://turfworks.site
 Open source contributions - https://turfworks.site/notion
 Cool stuff - https://turfworks.site/components
